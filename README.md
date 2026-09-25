@@ -29,12 +29,26 @@ Here are some ideas to get you started:
 <br>
 
 <h2 align="center">
-  <p>Hi, I’m Juliana Sakuma, nice to meet you! I'm a brazilian software developer learning how to build applications. I enjoy creating dynamic and fun interfaces. Deciphering how to work with database integrations.</p>
+  <p>Hi, I’m Juliana Sakuma. I'm a brazilian software developer learning how to build applications. I enjoy creating dynamic and fun interfaces, systems and database integrations. GameDev enthusiast.
+  </p>
 </h2>
+
+<h1 align="center">
+  <sub>✦  CHECK MY ITCH.IO  ✦</sub>
+  <br><br>
+  <p align="center">
+    <a href="https://jaguaratuba.itch.io/">
+      <img src="https://img.shields.io/badge/PLAY_ON-ITCH.IO-FA5C5C?style=for-the-badge&logo=itchdotio&logoColor=white" alt="itch.io">
+    </a>
+  </p>
+</h1>
 
 <h3 align="center">
   <p>
-    I'm familiar with | Electron | HTML | CSS | JavaScript | Java | PHP | Python |
+    | HTML | CSS | JavaScript | Java | PHP | Python |
+  </p>
+    | Godot | GameMaker | Electron | 
+  <p> 
   </p>
 </h3>
 
